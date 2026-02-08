@@ -15,7 +15,7 @@ The dashboard helps stakeholders quickly identify:
 
 ## 📊 Dashboard Preview
 
-![Sales Performance Dashboard](IMAGES/dashboard_preview.png)
+![Sales-Performance-Discount-Impact-Dashboard-Power-BI](IMAGES/dashboard_preview.png.png)
 
 ---
 
