@@ -40,8 +40,6 @@ The dashboard helps stakeholders quickly identify:
   - Discount_Flag
   - Profit_Margin
 
-> ⚠️ This dataset is self-created for learning and portfolio demonstration purposes.
-
 ---
 
 ## 📌 Key KPIs
